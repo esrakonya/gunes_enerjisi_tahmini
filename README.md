@@ -99,6 +99,7 @@ Kullanılan araçlar: Python, Google Colab, Pandas, NumPy, Matplotlib, scikit-le
 | Dosya | Açıklama |
 |---|---|
 | `gunes_enerjisi_tahmini.ipynb` | Tüm proje: veri, analiz, model, değerlendirme ve mini uygulama |
+| `gunes_verisi.csv` | NASA POWER'dan indirilen günlük veri (Marmaris, 2025, 365 satır) |
 | `README.md` | Bu dosya |
 
 ## Sınırlılıklar ve iyileştirme fikirleri
