@@ -1,0 +1,1 @@
+# gunes_enerjisi_tahmini
